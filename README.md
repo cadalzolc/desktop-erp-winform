@@ -11,3 +11,6 @@ Credentials
 username: admin
 password: 12345678
 ```
+
+### Note
+You need an internet connection to test the appliation
